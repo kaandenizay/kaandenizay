@@ -4,8 +4,6 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kaandenizay)
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kaandenizay)
 <!--
 **kaandenizay/kaandenizay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
