@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 [![Kaan Denizay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaandenizay)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kaandenizay)
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kaandenizay)
 <!--
 **kaandenizay/kaandenizay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
